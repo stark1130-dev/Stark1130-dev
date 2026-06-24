@@ -1,121 +1,147 @@
-<!-- ================= HEADER ================= -->
+<!-- =======================
+      PREMIUM GITHUB PROFILE
+======================= -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20My%20Universe&fontSize=55&fontAlignY=40&animation=fadeIn"/>
+
+# 👋 Hi, I'm **Kenil**
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=800&center=true&vCenter=true&width=850&lines=🚀+Full+Stack+Developer;🤖+AI+Enthusiast;💻+Open+Source+Contributor;⚡+Always+Building+Something+Awesome;🌍+Welcome+to+my+GitHub"/>
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="600"/>
+
+</div>
+
+---
+
+# 🌌 About Me
+
+<img align="right" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+
+```yaml
+Name: Your Name
+Role: Full Stack Developer
+
+Languages:
+  - JavaScript
+  - TypeScript
+  - Python
+  - Java
+  - C++
+
+Frontend:
+  - React
+  - Next.js
+  - Tailwind CSS
+
+Backend:
+  - Node.js
+  - Express
+  - MongoDB
+  - MySQL
+
+Learning:
+  - AI
+  - Cloud Computing
+  - DevOps
+
+Fun Fact:
+  Turning coffee into code ☕
+```
+
+---
+
+# 🚀 Tech Stack
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=Welcome%20To%20My%20Profile&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
-</p>
 
-<h1 align="center">Hi 👋 I'm kenil</h1>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,cpp,mongodb,mysql,firebase,docker,git,github,vscode,figma,linux&perline=10"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Open+Source+Enthusiast;React+%7C+Node.js+%7C+Python;Always+Learning+Something+New"/>
-</p>
-
-<p align="center">
-<img width="420" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 </p>
 
 ---
 
-# 💫 About Me
-
-<img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
-
-- 🚀 Passionate Software Developer
-- 💻 Love building modern web applications
-- 🌱 Currently learning Cloud & AI
-- 🤝 Open to collaboration
-- ⚡ Coffee + Code = Happiness
-
-<br><br><br><br><br>
-
----
-
-# 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,mongodb,mysql,git,github,vscode,figma,docker,linux"/>
-
-</p>
-
----
-
-# 🚀 Demo Projects
+# 💻 Featured Demo Projects
 
 <table>
+
 <tr>
 
 <td width="50%">
 
-### 🌐 Project One
+## 🌐 Nova Dashboard
 
-Modern Dashboard UI
+✨ Admin Dashboard
 
-✨ React + Tailwind
+✔ Authentication
 
-⭐ Authentication
+✔ Analytics
 
-📱 Responsive
+✔ Responsive
 
-🚀 Live Demo
-
-</td>
-
-<td width="50%">
+✔ Dark Mode
 
 <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
 
 </td>
 
-</tr>
+<td width="50%">
 
-<tr>
+## 🤖 AI Assistant
 
-<td>
+✨ AI Chat UI
+
+✔ Markdown
+
+✔ Voice Chat
+
+✔ Fast API
+
+✔ Premium Design
 
 <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"/>
 
 </td>
 
-<td>
-
-### 🤖 Project Two
-
-AI Chat Assistant
-
-✔ API Integration
-
-✔ Dark Mode
-
-✔ Markdown Support
-
-✔ Fast UI
-
-</td>
-
 </tr>
 
 <tr>
 
-<td>
+<td width="50%">
 
-### 📱 Project Three
+## 🛍 E-Commerce
 
-Mobile App UI
+✨ Shopping Website
 
-Flutter
+✔ Cart
 
-Firebase
+✔ Payment
 
-Authentication
+✔ Admin Panel
 
-Push Notifications
+✔ Product Search
+
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
 
 </td>
 
-<td>
+<td width="50%">
 
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
+## 📱 Social App
+
+✨ Modern UI
+
+✔ Chat
+
+✔ Stories
+
+✔ Notifications
+
+✔ Profile
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGd4a3FjNmJmMWM2a3ZrN3VjcjRibDJld3JrZzJjNjA3NzN1bDFqNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif"/>
 
 </td>
 
@@ -125,64 +151,84 @@ Push Notifications
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
-</p>
-
----
-
-# 🏆 Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=4"/>
-
-</p>
+</div>
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🐍 Contribution Snake
+# 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=2&column=4"/>
+
+</div>
+
+---
+
+# 🎵 Spotify (Optional)
+
+<div align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem"/>
+
+</div>
+
+---
+
+# ⌨️ Coding Time (Optional)
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🐍 Snake Eating Contributions
+
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
 
-</p>
+</div>
 
 ---
 
-# 🌍 Connect
+# 🌎 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="#">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
 <a href="#">
@@ -190,15 +236,35 @@ Push Notifications
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox"/>
+<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x"/>
 </a>
 
-</p>
+<a href="#">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f2027,50:203a43,100:2c5364"/>
+### 💬 Developer Quote
 
-</p>
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=gradient"/>
+
+### ⭐ Thanks for Visiting ⭐
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+
+</div>
