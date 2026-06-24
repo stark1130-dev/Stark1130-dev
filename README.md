@@ -1,55 +1,127 @@
-<div align="center">
+<!-- ================= HEADER ================= -->
 
-# 👋 Hi, I'm Kenil
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=Welcome%20To%20My%20Profile&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=🚀+Full+Stack+Developer;🤖+AI+Enthusiast;💻+BCA+Student;🌍+Building+Future+with+Code;✨+Always+Learning+New+Things" />
+<h1 align="center">Hi 👋 I'm Your Name</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:8E2DE2&height=180&section=header&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Open+Source+Enthusiast;React+%7C+Node.js+%7C+Python;Always+Learning+Something+New"/>
+</p>
 
-</div>
-
----
-
-# 🚀 About Me
-
-<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-🎓 First Year BCA Student
-
-💻 Passionate Full Stack Developer
-
-🤖 AI & Machine Learning Enthusiast
-
-🌱 Currently Learning
-- React
-- TypeScript
-- Next.js
-- AI APIs
-- Backend Development
-
-⚡ Fun Fact:
-> "I turn coffee ☕ into code."
+<p align="center">
+<img width="420" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+</p>
 
 ---
 
-# 💻 Tech Stack
+# 💫 About Me
+
+<img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+
+- 🚀 Passionate Software Developer
+- 💻 Love building modern web applications
+- 🌱 Currently learning Cloud & AI
+- 🤝 Open to collaboration
+- ⚡ Coffee + Code = Happiness
+
+<br><br><br><br><br>
+
+---
+
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,supabase,git,github,vscode,tailwind,cpp,c,python&perline=6"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,mongodb,mysql,git,github,vscode,figma,docker,linux"/>
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Demo Projects
 
-| Project | Description |
-|---------|-------------|
-| 🤖 AI Assistant | Smart AI Chat Application |
-| 🎓 College Resource Platform | Notes & Assignments Sharing |
-| 🌐 Portfolio Website | Personal Portfolio |
-| 📱 Modern Web Apps | React + Next.js Projects |
+<table>
+<tr>
+
+<td width="50%">
+
+### 🌐 Project One
+
+Modern Dashboard UI
+
+✨ React + Tailwind
+
+⭐ Authentication
+
+📱 Responsive
+
+🚀 Live Demo
+
+</td>
+
+<td width="50%">
+
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"/>
+
+</td>
+
+<td>
+
+### 🤖 Project Two
+
+AI Chat Assistant
+
+✔ API Integration
+
+✔ Dark Mode
+
+✔ Markdown Support
+
+✔ Fast UI
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 📱 Project Three
+
+Mobile App UI
+
+Flutter
+
+Firebase
+
+Authentication
+
+Push Notifications
+
+</td>
+
+<td>
+
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
@@ -57,9 +129,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -69,23 +141,23 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=4"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Activity Graph
 
 <p align="center">
 
@@ -105,32 +177,28 @@
 
 ---
 
-# 🌐 Connect With Me
+# 🌍 Connect
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="#">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
+<a href="#">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox"/>
 </a>
 
 </p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-### 💙 Thanks for visiting my profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f2027,50:203a43,100:2c5364"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00E5FF&center=true&width=500&lines=⭐+Star+my+repositories!;🚀+Let's+Build+Something+Awesome!;💻+Happy+Coding!"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:00C6FF&height=120&section=footer"/>
-
-</div>
+</p>
